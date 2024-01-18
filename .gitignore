@@ -33,5 +33,6 @@ build/
 .vscode/
 
 
-src/main/resources/secret.properties
+/src/secret.properties
+
 
