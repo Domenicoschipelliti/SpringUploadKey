@@ -33,7 +33,7 @@ build/
 .vscode/
 
 ###file segreto###
-secret.properties
+env.properties
 
 
-secret.properties
+
